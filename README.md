@@ -1,1 +1,2 @@
 # gitpractice
+hi to readme
